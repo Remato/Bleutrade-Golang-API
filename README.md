@@ -5,4 +5,5 @@ API da Bleutrade_V2 traduzida para Golang
 go get "nome_da_biblioteca"
 
 Usage#
+
 import "Framework_golang_bleutrade.go"
