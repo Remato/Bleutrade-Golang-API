@@ -14,8 +14,8 @@ import (
 	"time"
 )
 
-var apikey = "ecfa098643c9d06efde545e0658a8c37"
-var apisecret = "53e4c888f765e0c3702a1711854829d4fe5f1876"
+var apikey = ""
+var apisecret = ""
 
 func getResponse(uri string) []byte {
 
