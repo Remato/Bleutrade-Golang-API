@@ -1,9 +1,7 @@
 # Bleutrade-Golang-API
-API da Bleutrade_V2 traduzida para Golang
+API Bleutrade_V2 translate to Golang
 
-->Caso não tenha as bibliotecas no seu PC do golang, você pode usar o comando go get "import que sera baixado"
-go get "nome_da_biblioteca"
+->If a library is missing, use $go get "libray_name"
 
 Usage#
-
 import "Framework_golang_bleutrade.go"
